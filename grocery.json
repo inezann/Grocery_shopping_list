@@ -1,0 +1,106 @@
+{
+    "list": [
+    {
+        "sino":1,
+        "name":"Sugar",
+        "quantity":3,
+        "unit":"Kilo Gram",
+        "department":"Grocery",
+        "notes":"White Sugar"
+
+
+    },
+    {
+        "sino":2,
+        "name":"Rice",
+        "quantity":10,
+        "unit":"Kilo Gram",
+        "department":"Grocery",
+        "notes":"Nirapara"
+
+
+    },
+    {
+        "sino":3,
+        "name":"Potato",
+        "quantity":3,
+        "unit":"Kilo Gram",
+        "department":"Vegetables",
+        "notes":"Fresh"
+
+
+    },
+    {
+        "sino":4,
+        "name":"Pumpkin",
+        "quantity":1,
+        "unit":"Number",
+        "department":"Vegetables",
+        "notes":"Fresh"
+
+
+    },
+    {
+        "sino":5,
+        "name":"Cooking Oil",
+        "quantity":2,
+        "unit":"Litre",
+        "department":"Grocery",
+        "notes":"Sunflower"
+
+
+    },
+    {
+        "sino":6,
+        "name":"Biscuits",
+        "quantity":3,
+        "unit":"Packets",
+        "department":"Snacks",
+        "notes":"Goodday"
+
+
+    },
+    {
+        "sino":7,
+        "name":"Dish Wash Liquid",
+        "quantity":1,
+        "unit":"Litre",
+        "department":"Cleaning & Household",
+        "notes":"Vim Liquid"
+
+
+    },
+    {
+        "sino":8,
+        "name":"Toothpaste",
+        "quantity":1,
+        "unit":"Number",
+        "department":"Hygiene",
+        "notes":"Colgate"
+
+
+    },
+
+    {
+        "sino":9,
+        "name":"sanitizer",
+        "quantity":3,
+        "unit":"Number",
+        "department":"Health Products",
+        "notes":"Lifebuoy"
+
+
+    },
+    {
+        "sino":10,
+        "name":"Mask",
+        "quantity":10,
+        "unit":"Number",
+        "department":"Health Products",
+        "notes":"Reusable mask"
+
+
+    }
+   
+]
+}
